@@ -1,4 +1,4 @@
-# windows-batch-scripts
+# Windows Batch Scripts
 
 Some useful batch scripts for windows to automate / trigger some tasks. These can be scheduled to automate tasks by specific events/time 
 
